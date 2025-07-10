@@ -1,5 +1,5 @@
 {
-  "ModsLabs_DeviceAuth": [
+  "HkVip_DeviceAuth": [
     {
       "id": "11863883d00",
       "name": "Admin Device"
@@ -9,7 +9,7 @@
       "name": "Test Phone"
     },
     {
-      "id": "3f2c841253db9582",
+      "id": "your-device-id",
       "name": "Your Device Name"
     }
   ]
