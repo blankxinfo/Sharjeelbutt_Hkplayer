@@ -20,20 +20,20 @@
       "text": "Dismiss",
       "color": "#3A4A4B",
       "text_color": "#FFFFFF",
-      "enabled": true
+      "enabled": false
     },
     "update_button": {
       "text": "badbku",
       "color": "#00BFFF",
       "text_color": "#FFFFFF",
-      "enabled": true,
+      "enabled": false,
       "link": "https://wa.link/2zy2tp"
     },
     "join_telegram_button": {
       "text": "Join Whatsapp",
       "color": "#00BFFF",
       "text_color": "#FFFFFF",
-      "enabled": true,
+      "enabled": false,
       "link": "https://whatsapp.com/channel/0029VbA5F9EEFeXofklKQ21U"
     }
   }
