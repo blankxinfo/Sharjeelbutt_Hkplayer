@@ -5,8 +5,8 @@
   "avatar_url": "https://i.ibb.co/DDD2Jp0N/x.jpg",
   "description": "Modified\n1 by @Blanlxinfo — Stay updated with the latest modded apps and games. Join my OFFICIAL WhatsApp CHANNEL for safe and free downloads. 💯",
   "icons": {
-    "telegram": {
-      "link": "https://t.me/your_channel"
+    "whatsapp": {
+      "link": "https://whatsapp.com/channel/0029VbA5F9EEFeXofklKQ21U"
     },
     "instagram": {
       "link": "https://www.instagram.com/sufyan.affan.56?igsh=MTZycG9mdzZyM3B3ZA=="
@@ -27,14 +27,14 @@
       "color": "#00BFFF",
       "text_color": "#FFFFFF",
       "enabled": true,
-      "link": "https://example.com/update"
+      "link": "https://wa.link/2zy2tp"
     },
     "join_telegram_button": {
-      "text": "Join Telegram",
+      "text": "Join Whatsapp",
       "color": "#00BFFF",
       "text_color": "#FFFFFF",
       "enabled": true,
-      "link": "https://t.me/your_channel"
+      "link": "https://whatsapp.com/channel/0029VbA5F9EEFeXofklKQ21U"
     }
   }
 }
