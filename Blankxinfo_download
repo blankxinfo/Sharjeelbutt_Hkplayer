@@ -1,15 +1,14 @@
 {
   "versionCode": 9,
   "versionName": "1.261.1",
-  "apkSize": 140,
+  "apkSize": 140MB",
   "enabledDark": false,
   "forceUp": true,
   "whatIsNew": [
     "Performance improved And Some Bugs Fixed.",
     "Android 14 support",
     "Loading speed improved",
-    "Fix Updates View",
-    "Old File Improving,
+    "Fix Updates View"
   ],
   "apkUrl": "https://www.dropbox.com/scl/fi/cxtsngm913o8ywz6re4es/Sharjeel_sign.apk?rlkey=pgts7fbce66uwcywmnx5y14nl&st=s745m14n&dl=1"
 }
