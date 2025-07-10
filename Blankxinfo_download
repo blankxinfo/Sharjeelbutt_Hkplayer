@@ -1,14 +1,15 @@
 {
   "versionCode": 9,
-  "versionName": "5.1",
-  "apkSize": 9,
-  "enabledDark": true,
+  "versionName": "1.261.1",
+  "apkSize": 140MB,
+  "enabledDark": false,
   "forceUp": true,
   "whatIsNew": [
-    "Performance improved and some bugs fixed.",
+    "Performance improved And Some Bugs Fixed.",
     "Android 14 support",
     "Loading speed improved",
-    "Notification display issues fixed"
+    "Fix Updates View",
+    "Old File Improving,
   ],
-  "apkUrl": "https://www.dropbox.com/scl/fi/34hizhwjmut91zpz7xjp7/SyriaTalkPlus_Ultra.apk?rlkey=8gr6vebbisezu1718qv0so2qe&st=ct9jk73g&dl=1"
+  "apkUrl": "https://www.dropbox.com/scl/fi/cxtsngm913o8ywz6re4es/Sharjeel_sign.apk?rlkey=pgts7fbce66uwcywmnx5y14nl&st=s745m14n&dl=1"
 }
