@@ -1,18 +1,18 @@
 {
-  "title": "Blankxinfo™",
-  "subtitle": "Developed by Sharjeel",
+  "title": "Bad 888™",
+  "subtitle": "Developed by Ansari",
   "dialog_background_color": "#252F30",
   "avatar_url": "https://i.ibb.co/DDD2Jp0N/x.jpg",
-  "description": "Modified\n1 by @Blanlxinfo — Stay updated with the latest modded apps and games. Join my OFFICIAL WhatsApp CHANNEL for safe and free downloads. 💯",
+  "description": "Modified\n1 by @Badboy — Stay updated with the latest modded apps and games. Join my OFFICIAL TELEGRAM CHANNEL for safe and free downloads. 💯",
   "icons": {
     "telegram": {
-      "link": "https://whatsapp.com/channel/0029VbA5F9EEFeXofklKQ21U"
+      "link": "https://t.me/your_channel"
     },
     "instagram": {
-      "link": "https://www.instagram.com/sufyan.affan.56?igsh=MTZycG9mdzZyM3B3ZA=="
+      "link": "https://instagram.com/your_profile"
     },
     "youtube": {
-      "link": "https://youtube.com/@sharjeelbutt4u"
+      "link": "https://youtube.com/your_channel"
     }
   },
   "buttons": {
@@ -20,21 +20,21 @@
       "text": "Dismiss",
       "color": "#3A4A4B",
       "text_color": "#FFFFFF",
-      "enabled": false
+      "enabled": true
     },
     "update_button": {
       "text": "badbku",
       "color": "#00BFFF",
       "text_color": "#FFFFFF",
-      "enabled": false,
-      "link": "https://wa.link/2zy2tp"
+      "enabled": true,
+      "link": "https://example.com/update"
     },
     "join_telegram_button": {
-      "text": "Join Whatsapp",
+      "text": "Join Telegram",
       "color": "#00BFFF",
       "text_color": "#FFFFFF",
-      "enabled": false,
-      "link": "https://whatsapp.com/channel/0029VbA5F9EEFeXofklKQ21U"
+      "enabled": true,
+      "link": "https://t.me/your_channel"
     }
   }
 }
