@@ -215,4 +215,46 @@
     "expiresAt": "2025-07-30",
     "allowOffline": true
   }
+,{
+    "id": "3812ccf494a9bbad",
+    "key": "Hkplayet650",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
+    "id": "05e0b6b91a2ffba9",
+    "key": "Ashi.Update2",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
+    "id": "cdcd3ec663956d2c",
+    "key": "Ashi.Update2",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
+    "id": "b080fcf9339eb043",
+    "key": "Ashi.Update2",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
+    "id": "aea62ac984e6ccf0",
+    "key": "Ashi.Update2",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
+    "id": "4227ea74c4e1dd4f",
+    "key": "Ashi.Update2",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
+    "id": "",
+    "key": "Ashi.Update2",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  }
 ]
