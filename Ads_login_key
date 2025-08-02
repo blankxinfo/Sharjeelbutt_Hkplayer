@@ -10,5 +10,11 @@
     "key": "blankxinfoAds",
     "expiresAt": "2030-05-30",
     "allowOffline": true
-  }
+  },
+{
+    "id": "7113a7491eaaf1a5",
+    "key": "masmurshadVip",
+    "expiresAt": "2030-05-30",
+    "allowOffline": true
+  },
 ]
