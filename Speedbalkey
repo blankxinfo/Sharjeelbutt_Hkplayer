@@ -52,12 +52,12 @@
     "key": "GurmanVipLifeTime",
     "expiresAt": "2030-01-30",
     "allowOffline": true
-  }
-,
+  },
 {
     "id": "a5c83ee8fec52e5d",
     "key": "KabirVip1year",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+}
   
 ]
