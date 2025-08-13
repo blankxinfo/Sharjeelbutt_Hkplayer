@@ -59,5 +59,11 @@
     "expiresAt": "2030-01-30",
     "allowOffline": true
 }
-  
+  ,
+{
+    "id": "3b3a14632d12a857",
+    "key": "Test1Day",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
+  }
 ]
