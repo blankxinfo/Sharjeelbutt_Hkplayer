@@ -77,5 +77,11 @@
     "key": "Mohib3monthspeed",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "f8389fd130183a39",
+    "key": "Khizar3monthspeed",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]
