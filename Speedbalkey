@@ -83,5 +83,11 @@
     "key": "Khizar3monthspeed",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "8664d04071b452ea",
+    "key": "Changaiz2month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]
