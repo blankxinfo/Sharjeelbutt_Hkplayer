@@ -113,5 +113,11 @@
     "key": "ayesha3monthspeed",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "808ffabeacac63fa",
+    "key": "Parvez3monthSpeed",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]
