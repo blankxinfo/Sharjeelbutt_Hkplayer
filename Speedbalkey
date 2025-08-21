@@ -107,5 +107,11 @@
     "key": "Main3monthspeed",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "1a8e4a80e91bb3a6",
+    "key": "ayesha3monthspeed",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]
