@@ -89,5 +89,23 @@
     "key": "Changaiz2month",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "dce3a4d3018601ac",
+    "key": "Main3monthspeed",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
+  },
+{
+    "id": "16e49e070617a687",
+    "key": "Main3monthspeed",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
+  },
+{
+    "id": "e110396e579ff328",
+    "key": "Main3monthspeed",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]
