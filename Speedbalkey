@@ -143,5 +143,29 @@
     "key": "tahirjanspeed",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "893f29b2748203b3",
+    "key": "Azurspeed3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
+  },
+{
+    "id": "cbfb45b31112fa5e",
+    "key": "Azurspeed3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
+  },
+{
+    "id": "317846cc6847151b",
+    "key": "Azurspeed3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
+  },
+{
+    "id": "e4164b2b0fe70338",
+    "key": "Azurspeed3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]
