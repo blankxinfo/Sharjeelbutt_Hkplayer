@@ -167,5 +167,17 @@
     "key": "Azurspeed3month",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "117e38269e719c03",
+    "key": "Najafspeed3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
+  },
+{
+    "id": "3729a41016c97e35",
+    "key": "Najafspeed3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]
