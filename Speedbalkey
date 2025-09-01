@@ -197,5 +197,17 @@
     "key": "Rizwanspeed3month",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "8fead90b34a090be",
+    "key": "Najafspeed3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
+  },
+{
+    "id": "cf4c62d5fdf0ef01",
+    "key": "Najafspeed3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]
