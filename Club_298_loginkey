@@ -1354,5 +1354,11 @@
     "key": "AYYU001",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "0c57d1389f5a00cd",
+    "key": "AYYU001",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]
