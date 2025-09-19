@@ -215,5 +215,11 @@
     "key": "Adnan3month",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "8b5ff022732deef1",
+    "key": "Mehar3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]
