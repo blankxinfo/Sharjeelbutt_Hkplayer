@@ -209,5 +209,11 @@
     "key": "Najafspeed3month",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "b33ec45058558f35",
+    "key": "Adnan3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]
