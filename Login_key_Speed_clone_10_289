@@ -10,5 +10,11 @@
     "key": "Hkplayer",
     "expiresAt": "2030-06-15",
     "allowOffline": false
+  },
+{
+    "id": "9274cc26f104c78b",
+    "key": "Umarspeed5k",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]
