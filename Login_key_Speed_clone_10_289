@@ -16,5 +16,11 @@
     "key": "Ahmed2month",
     "expiresAt": "2050-01-30",
     "allowOffline": true
+  },
+  {
+    "id": "fcba165a4c4d0f3e",
+    "key": "Chand2month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]
