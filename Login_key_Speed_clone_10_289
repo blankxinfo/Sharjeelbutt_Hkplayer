@@ -10,5 +10,11 @@
     "key": "Hkplayer",
     "expiresAt": "2030-06-15",
     "allowOffline": false
+  },
+  {
+    "id": "6b4d9377ed5d5eef",
+    "key": "Ahmed2month",
+    "expiresAt": "2050-01-30",
+    "allowOffline": true
   }
 ]
