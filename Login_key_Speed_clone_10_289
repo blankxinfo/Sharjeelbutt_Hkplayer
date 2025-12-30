@@ -28,5 +28,11 @@
     "key": "Shajzad2month",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+  {
+    "id": "ccff35f5e011793a",
+    "key": "Shafqat2month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]
