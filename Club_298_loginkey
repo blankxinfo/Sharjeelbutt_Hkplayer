@@ -5503,5 +5503,11 @@
     "key": "hkpalyer650",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "8f1b2961dddcac13",
+    "key": "AYYU001",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]
